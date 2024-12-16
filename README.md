@@ -1,8 +1,6 @@
 # L Game
 
-Formulate two separate ways
-to find winning strategies for each player. We shall also ana-
-lyze slight variations of the game using the same methods.
+Formulate two separate ways to find winning strategies for each player and analyze slight variations of the game using the same methods.
 
 ## Game Description
 The L game is a strategic board game invented by Edward de Bono. It was introduced in his book The Five-Day Course in Thinking (1967).
